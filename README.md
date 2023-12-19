@@ -1,7 +1,7 @@
 <p align="center"><a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://avatars.githubusercontent.com/u/83665664?v=4" width="300" alt="DotNetCore Logo"></a></p>
 
 # SAM
-Student Attendance Management System to help teachers manage their students's attendance.
+Student Attendance Management System is used to help teachers manage their students's attendance.
 
 Technology Used:
 
@@ -67,3 +67,4 @@ Technology Used:
 	* Microsoft.AspNetCore.Mvc.NewtonsoftJson (8.0.0)
 	* Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (8.0.0)
 	* Microsoft.Identity.Web (2.16.0)
+Thanks
