@@ -1,24 +1,42 @@
-<p align="center"><a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://avatars.githubusercontent.com/u/83665664?v=4" width="400" alt="DotNetCore Logo"></a></p>
+<p align="center"><a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://avatars.githubusercontent.com/u/83665664?v=4" width="300" alt="DotNetCore Logo"></a></p>
 
 # SAM
 Student Attendance Management System (SAM)
 
 Technology Used:
 
-- DotNet Core 8.0
+- DotNet Core 8.0  (https://dotnet.microsoft.com/en-us/download)
 - C#
 - JavaScript
 - JQuery
 - Bootstrap 5
 - Ms Visual Studio
 
-## Project Preparation
+# Project Preparation
 
-1. Project Setup (Service, API, Web)
+1. Project Setup (Share, Service, API, Web)
 
 2. Project Folder Structures
+   # SAM.Share
+   	* Enums
+   	* Extensions
+   	* Helpers
+   # SAM.Service
+   	* AutoMappers 
+   	* Models
+   	* Repositories
+   	* Utils
+   # SAM.API
+   	* Controllers
+   	* Extensions
+   	* Files
+   # SAM.Web   	   		
+   	* Models
+   	* Pages
+   	* Services
+   	* Utils
 
-3. Install Packages
+4. Install Packages
 
    # Service:
 	* Microsoft.EnityFrameworkCore (8.0.0)
