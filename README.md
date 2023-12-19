@@ -17,20 +17,20 @@ Technology Used:
 1. Project Setup (Share, Service, API, Web)
 
 2. Project Folder Structures
-   2.1 SAM.Share
+   ## SAM.Share
    	* Enums
    	* Extensions
    	* Helpers
-   2.2 SAM.Service
+   ## SAM.Service
    	* AutoMappers 
    	* Models
    	* Repositories
    	* Utils
-   2.3 SAM.API
+   ## SAM.API
    	* Controllers
    	* Extensions
    	* Files
-   2.4 SAM.Web   	   		
+   ## SAM.Web   	   		
    	* Models
    	* Pages
    	* Services
