@@ -14,10 +14,10 @@ Technology Used:
 
 # Project Preparation
 
-1. Project Setup (Share, Service, API, Web)
+1. Project Setup (Lib, Service, API, Web)
 
 2. Project Folder Structures
-   ## SAM.Share
+   ## SAM.Lib
    	* Enums
    	* Extensions
    	* Helpers
