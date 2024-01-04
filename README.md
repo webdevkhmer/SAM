@@ -11,6 +11,7 @@ Technology Used:
 - JQuery
 - Bootstrap 5
 - Ms Visual Studio
+- Ms SQL Server
 
 # Project Preparation
 
