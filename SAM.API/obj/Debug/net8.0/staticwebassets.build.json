@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iKtaNMKtlWWuR2LAGc/+Fa5TJsa+kTzUOFnPm2CtEug=",
+  "Source": "SAM.API",
+  "BasePath": "_content/SAM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

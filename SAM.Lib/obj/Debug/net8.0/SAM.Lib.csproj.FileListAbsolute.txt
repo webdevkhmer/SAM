@@ -1,0 +1,12 @@
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\bin\Debug\net8.0\SAM.Lib.deps.json
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\bin\Debug\net8.0\SAM.Lib.dll
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\bin\Debug\net8.0\SAM.Lib.pdb
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.AssemblyInfoInputs.cache
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.AssemblyInfo.cs
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.csproj.CoreCompileInputs.cache
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.sourcelink.json
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.dll
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\refint\SAM.Lib.dll
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\SAM.Lib.pdb
+D:\Learns\webdevkhmer\projects\SAM\SAM\SAM.Lib\obj\Debug\net8.0\ref\SAM.Lib.dll
