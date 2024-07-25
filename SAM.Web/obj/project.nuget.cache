@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s8Gq4jhnNU/5hvr0E8gi+z3+rmJY2YjtxNwnJJeLvaUydSxv/4Gqv9ZfVhcjKO9iSKXeIpeKHAb3PSQC2Fze8Q==",
+  "dgSpecHash": "/cDejJAOS5ZXFVRf+TkLUyV1lYUVML16lsTqawcn8CbT4LffsjqkqaRA39Fi5KmD0L3TR7a89bLkYYNLxntPBA==",
   "success": true,
-  "projectFilePath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.Web\\SAM.Web.csproj",
+  "projectFilePath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.Web\\SAM.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phearun.VENG\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\Phearun.VENG\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

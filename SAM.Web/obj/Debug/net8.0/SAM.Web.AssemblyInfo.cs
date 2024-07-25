@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAM.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ef7a755e06dcc1299b241720293f8cd74acbb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2353837078fd831bcd1d637326a59cc1a8f577ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAM.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAM.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

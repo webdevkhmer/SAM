@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGh7nIQLx5bMAydHq5Q8GZXOoIj2ZRP4gbwSTASgvp+KGSHKAbHaNMMxfwEo6Ck6pWW6tH4chOcQr51FGeXdBA==",
+  "dgSpecHash": "26E5zXPoNGzBuKSTPKbmvMuSGQ6jXcqPCiMCN0AbRwO1zfLjVBVl0TSyw5+ckLRuD+/pBJYwYAGkfcmpk8o8XQ==",
   "success": true,
-  "projectFilePath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.API\\SAM.API.csproj",
+  "projectFilePath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.API\\SAM.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phearun.VENG\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Phearun.VENG\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

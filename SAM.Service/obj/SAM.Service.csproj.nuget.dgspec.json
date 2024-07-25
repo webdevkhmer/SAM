@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.Service\\SAM.Service.csproj": {}
+    "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.Service\\SAM.Service.csproj": {}
   },
   "projects": {
-    "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.Service\\SAM.Service.csproj": {
+    "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.Service\\SAM.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.Service\\SAM.Service.csproj",
+        "projectUniqueName": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.Service\\SAM.Service.csproj",
         "projectName": "SAM.Service",
-        "projectPath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.Service\\SAM.Service.csproj",
+        "projectPath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.Service\\SAM.Service.csproj",
         "packagesPath": "C:\\Users\\Phearun.VENG\\.nuget\\packages\\",
-        "outputPath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM\\SAM.Service\\obj\\",
+        "outputPath": "D:\\Learns\\webdevkhmer\\projects\\SAM\\SAM.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Phearun.VENG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -101,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
